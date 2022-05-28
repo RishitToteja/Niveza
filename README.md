@@ -1,5 +1,12 @@
 # NIVEZA
 
+# Team Members
+1. Aarushi Dua
+2. Aarushi Saxena
+3. Aaryan Arora
+4. Abhisht Dixit
+5. Rishit Toteja
+
 # About The Project
 
 Small business owners often get exploited by moneylenders when borrowing money. High and unfair rates of interest, middlemen, and a process where the entire power lies in the hands of the lender leaves the borrowers vulnerable to exploitation. The entire process is very slow, and requires a lot of manual work.
@@ -22,7 +29,6 @@ We propose a solution to this problem through our DApp Decentralised Financial P
 # Features
 
 * Borrowers can create their loan proposal with the amount they want, their favourable repayment due date and CID of their mortgage uploaded on IPFS.
-> As of now we are using a decentralised public IPFS gateway. To use our DApp generate your file CID [here](https://www.dreamlink.cloud/) before adding it as a mortgage.
 * Lender's can verify the borrower's data and send their proposal with their favourable interest rate.
 * Borrower's can choose multiple lenders of their interest.
 * Borrower can repay the loan anytime they want before the due date and amortized loan will be transacted.
