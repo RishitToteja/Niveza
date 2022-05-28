@@ -1,4 +1,4 @@
-# E-Cell-Hackathon
+# NIVEZA
 
 # About The Project
 
