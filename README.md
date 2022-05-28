@@ -46,3 +46,6 @@ We propose a solution to this problem through our DApp Decentralised Financial P
 6. Ganache
 7. Web3
 8. jQuery
+9. IPFS
+10. Python
+11. TensorFlow
